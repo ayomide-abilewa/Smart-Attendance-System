@@ -18,7 +18,20 @@ Backend/logs/
 Backend/dataset/
 Backend/embeddings/
 Backend/exports/
+_pdf_extract/
+github-profile/
 
+# Environment files
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
 
 # Vite cache
 frontend/.vite/
